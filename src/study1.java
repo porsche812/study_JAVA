@@ -34,6 +34,8 @@ public class study1 {
                 //합
                 sum += arr[i][j];
 
+
+
                 int max = maxx(arr);
                 int min = minn(arr);
 
